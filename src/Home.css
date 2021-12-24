@@ -1,0 +1,27 @@
+.home__section {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.home__section--first_parent {
+  margin: 50px 10px;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+@media (max-width: 670px) {
+  .home__section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0;
+  }
+  .home__section--first_parent {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0;
+  }
+}
