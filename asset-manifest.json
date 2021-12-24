@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BnbClone/static/css/main.e4a2e42d.chunk.css",
+    "main.js": "/BnbClone/static/js/main.5882b207.chunk.js",
+    "main.js.map": "/BnbClone/static/js/main.5882b207.chunk.js.map",
+    "runtime-main.js": "/BnbClone/static/js/runtime-main.eff3eade.js",
+    "runtime-main.js.map": "/BnbClone/static/js/runtime-main.eff3eade.js.map",
+    "static/css/2.c2e18bb2.chunk.css": "/BnbClone/static/css/2.c2e18bb2.chunk.css",
+    "static/js/2.34b577d0.chunk.js": "/BnbClone/static/js/2.34b577d0.chunk.js",
+    "static/js/2.34b577d0.chunk.js.map": "/BnbClone/static/js/2.34b577d0.chunk.js.map",
+    "static/js/3.e8160eca.chunk.js": "/BnbClone/static/js/3.e8160eca.chunk.js",
+    "static/js/3.e8160eca.chunk.js.map": "/BnbClone/static/js/3.e8160eca.chunk.js.map",
+    "index.html": "/BnbClone/index.html",
+    "static/css/2.c2e18bb2.chunk.css.map": "/BnbClone/static/css/2.c2e18bb2.chunk.css.map",
+    "static/css/main.e4a2e42d.chunk.css.map": "/BnbClone/static/css/main.e4a2e42d.chunk.css.map",
+    "static/js/2.34b577d0.chunk.js.LICENSE.txt": "/BnbClone/static/js/2.34b577d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eff3eade.js",
+    "static/css/2.c2e18bb2.chunk.css",
+    "static/js/2.34b577d0.chunk.js",
+    "static/css/main.e4a2e42d.chunk.css",
+    "static/js/main.5882b207.chunk.js"
+  ]
+}
